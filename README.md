@@ -24,5 +24,5 @@
 ## 🖥 Linux & OSINT
 | Topic  | Repl Link       | Description |
 |-----------|------------------|-------------------------------------------------------------------------------------|
-| Linux  | [Level 1]() [Level 2]() | In the movies, you might often see "hackers" pounding away at a keyboard on a complicated looking terminal... Learn about what they *actually* do and how to navigate a commandline! | 
+| Linux  | [Level 1]() [Level 2](https://replit.com/@EmilyChen10/Linux-Level-2) | In the movies, you might often see "hackers" pounding away at a keyboard on a complicated looking terminal... Learn about what they *actually* do and how to navigate a commandline! | 
 | OSINT  | [Link]() | Learn about how OSINT, Open Source Intelligence, which is essentially information publicly available on the internet, impacts your own internet safety. | 
